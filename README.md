@@ -1,2 +1,6 @@
-# Portal
-Portal de discussões utilizando PHP e JS
+## Projeto Criado no curso - Portal de Notícias PHP 7 MVC
+> Status: Finalizado 🆗
+
+### Sobre
+
+* Se trata de um projeto focado em treinar PHP
